@@ -73,5 +73,3 @@ user_groups:
 ---
 
 Ze Zhang is a PhD student of Mechanical Engineering in Prof. Majumdar's Lab at Stanford University. Her research interests include ...
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
