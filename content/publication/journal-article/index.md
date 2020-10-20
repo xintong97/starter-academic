@@ -1,19 +1,17 @@
 ---
 title: "A dual-mode textile for human body radiative heating and cooling"
 authors:
-- Hsu P.
-- Liu C.
+- Hsu P
+- Liu C
 - Song A.Y
-- Zhang Z.
-- Peng Y.
-- Xie J.
-- Liu, K. 
-- Wu C.
+- Zhang Z
+- Peng Y
+- Xie J
+- Liu K 
+- Wu C
 - Catrysse P.B
-- Cai L.
-#author_notes:
-#- "Equal contribution"
-#- "Equal contribution"
+- Cai L
+
 date: "2017-11-10T00:00:00Z"
 doi: "10.1126/sciadv.1700895"
 
