@@ -30,15 +30,7 @@ subtitle = ""
     publication_type = ""
     author = ""
     exclude_featured = false
-    
-  [[item]]
-  title = "Intern"
-  company = "Company X"
-  company_url = ""
-  location = "Washington"
-  date_start = "2016-06-01"
-  date_end = "2016-09-01"
-  description = """idk"""
+   
   
 [design]
   # Toggle between the various page layout types.
