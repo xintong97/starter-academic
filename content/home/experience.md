@@ -27,7 +27,7 @@ date_format = "Jan 2006"
   description = """
   Responsibilities include:
   
-  wait for edition
+  wait for edit
   """
 
 [[experience]]
