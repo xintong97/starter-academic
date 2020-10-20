@@ -1,16 +1,24 @@
 ---
-title: "An example journal article"
+title: "A dual-mode textile for human body radiative heating and cooling"
 authors:
-- admin
-- Robert Ford
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
-date: "2015-09-01T00:00:00Z"
-doi: ""
+- Hsu P.
+- Liu C.
+- Song A.Y
+- Zhang Z.
+- Peng Y.
+- Xie J.
+- Liu, K. 
+- Wu C.
+- Catrysse P.B
+- Cai L.
+#author_notes:
+#- "Equal contribution"
+#- "Equal contribution"
+date: "2017-11-10T00:00:00Z"
+doi: "10.1126/sciadv.1700895"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+#publishDate: "2017-01-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -19,13 +27,13 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
+publication: "Science Advances"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Maintaining human body temperature is one of the most basic needs for living, which often consumes a huge amount of energy to keep the ambient temperature constant. To expand the ambient temperature range while maintaining human thermal comfort, the concept of personal thermal management has been recently demonstrated in heating and cooling textiles separately through human body infrared radiation control. Realizing these two opposite functions within the same textile would represent an exciting scientific challenge and a significant technological advancement. We demonstrate a dual-mode textile that can perform both passive radiative heating and cooling using the same piece of textile without any energy input. The dual-mode textile is composed of a bilayer emitter embedded inside an infrared-transparent nanoporous polyethylene (nanoPE) layer. We demonstrate that the asymmetrical characteristics of both emissivity and nanoPE thickness can result in two different heat transfer coefficients and achieve heating when the low-emissivity layer is facing outside and cooling by wearing the textile inside out when the high-emissivity layer is facing outside. This can expand the thermal comfort zone by 6.5°C. Numerical fitting of the data further predicts 14.7°C of comfort zone expansion for dual-mode textiles with large emissivity contrast
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+#summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
 - Source Themes
@@ -34,7 +42,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: https://advances.sciencemag.org/content/3/11/e1700895
 url_code: ''
 url_dataset: ''
 url_poster: ''
