@@ -22,7 +22,7 @@ bio: My research interests include fundamental understanding of nanoscale transp
 
 interests:
 - Atomic Scale Imaging
-- Nanoscale Heat transfer
+- Nanoscale Heat Transfer
 
 education:
   courses:
