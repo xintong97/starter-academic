@@ -26,7 +26,7 @@ interests:
 
 education:
   courses:
-  - course: PhD in Mechanical Engineering, Expected
+  - course: PhD in Mechanical Engineering
     institution: Stanford University
     year: 2021
   - course: MEng in Mechanical Engineering
